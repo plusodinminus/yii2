@@ -48,7 +48,7 @@ All Rights Reserved.
 ------------------
 
 * [Bootstrapping](runtime-bootstrapping.md)
-* [Роутинг](runtime-routing.md)
+* [Маршрутизация](runtime-routing.md)
 * [Запросы](runtime-requests.md)
 * [Ответы](runtime-responses.md)
 * **TBD** [Сессии и куки](runtime-sessions-cookies.md)
